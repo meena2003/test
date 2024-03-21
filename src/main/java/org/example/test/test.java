@@ -12,4 +12,8 @@ public class test {
         System.out.println("true = " + true);
         System.out.println("true = " + true);
     }
+
+    public void login() {
+        System.out.println("true = " + true);
+    }
 }

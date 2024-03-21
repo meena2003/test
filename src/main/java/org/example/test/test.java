@@ -7,4 +7,9 @@ public class test {
         System.out.println("true = " + true);
         System.out.println("true = " + true);
     }
+
+    public void test2() {
+        System.out.println("true = " + true);
+        System.out.println("true = " + true);
+    }
 }
